@@ -5,6 +5,7 @@ Puzzle: Fit math symbols (+,-,X,/) on place of question mark which make this equ
 
 File 2: Distinct1To9.java
 Puzzle: All digits from 1 to 9 to be used. Each box should contain different digit.
-![distinct1To9](https://user-images.githubusercontent.com/12392863/211202364-9985266f-72e1-4432-94cf-9780a311d851.png)
+![distinct1To9](https://user-images.githubusercontent.com/12392863/211213128-0b43b8e6-fcf1-4efc-8d37-a0471627a09a.png)
+
 
 
