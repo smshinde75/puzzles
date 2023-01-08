@@ -1,3 +1,6 @@
+// Java version more than 6 and less than 15 is expected to run this program
+// Recommended Java Version: 8
+
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
